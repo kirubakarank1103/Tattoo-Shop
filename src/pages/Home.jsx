@@ -44,9 +44,9 @@ function AnimatedCounter({ value, suffix }) {
 }
 
 const heroImages = [
-  'https://picsum.photos/seed/hero-ink1/1200/800',
-  'https://picsum.photos/seed/hero-ink2/1200/800',
-  'https://picsum.photos/seed/hero-ink3/1200/800',
+  'https://cdn.shopify.com/s/files/1/0639/1237/8602/files/3D_Tattoos_for_Men_480x480.webp?v=1744022695',
+  'https://menshaircuts.com/wp-content/uploads/2023/05/tp-tattoos-for-men-500x333.jpg',
+  'https://menshaircuts.com/wp-content/uploads/2023/05/tattoos-for-men-crow-green-blue-black-moon-683x1024.jpg',
 ];
 
 export default function Home() {
@@ -209,7 +209,7 @@ export default function Home() {
               <ScrollReveal direction="left" className="about-img-wrap">
                 <div className="about-img">
                   <img
-                    src="https://picsum.photos/seed/studio-ink/700/875"
+                    src="https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?q=80&w=700&auto=format&fit=crop"
                     alt="INK DYNASTY Studio"
                   />
                   <div className="about-img-badge">

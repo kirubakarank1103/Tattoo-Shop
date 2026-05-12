@@ -2,7 +2,7 @@ export const testimonials = [
   {
     id: 1,
     name: "Arjun Krishnamurthy",
-    avatar: "https://api.dicebear.com/7.x/personas/svg?seed=arjun&backgroundColor=1a1a1a",
+    avatar: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=100&h=100",
     rating: 5,
     date: "March 2024",
     style: "Realism",
@@ -14,7 +14,7 @@ export const testimonials = [
   {
     id: 2,
     name: "Deepika Venkatesh",
-    avatar: "https://api.dicebear.com/7.x/personas/svg?seed=deepika&backgroundColor=1a1a1a",
+    avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=100&h=100",
     rating: 5,
     date: "January 2024",
     style: "Mandala",
@@ -26,7 +26,7 @@ export const testimonials = [
   {
     id: 3,
     name: "Karan Mehta",
-    avatar: "https://api.dicebear.com/7.x/personas/svg?seed=karan&backgroundColor=1a1a1a",
+    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100&h=100",
     rating: 5,
     date: "February 2024",
     style: "Tribal",
@@ -38,7 +38,7 @@ export const testimonials = [
   {
     id: 4,
     name: "Sneha Raghavan",
-    avatar: "https://api.dicebear.com/7.x/personas/svg?seed=sneha&backgroundColor=1a1a1a",
+    avatar: "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=100&h=100",
     rating: 5,
     date: "April 2024",
     style: "Watercolor",
@@ -50,7 +50,7 @@ export const testimonials = [
   {
     id: 5,
     name: "Rahul Subramaniam",
-    avatar: "https://api.dicebear.com/7.x/personas/svg?seed=rahul&backgroundColor=1a1a1a",
+    avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=100&h=100",
     rating: 5,
     date: "March 2024",
     style: "Fine Line",
@@ -62,7 +62,7 @@ export const testimonials = [
   {
     id: 6,
     name: "Meera Pillai",
-    avatar: "https://api.dicebear.com/7.x/personas/svg?seed=meera&backgroundColor=1a1a1a",
+    avatar: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=100&h=100",
     rating: 5,
     date: "April 2024",
     style: "Neo-Traditional",

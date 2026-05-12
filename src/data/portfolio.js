@@ -6,7 +6,7 @@ export const portfolioItems = [
     artist: "Vikram Arjun",
     size: "Large",
     duration: "8 hrs",
-    image: "https://picsum.photos/seed/geo-wolf/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdv9dZRxW7_E-z2o_oMrT0ofvX-vVDTEf11A&s",
     likes: 892,
   },
   {
@@ -16,7 +16,7 @@ export const portfolioItems = [
     artist: "Priya Natarajan",
     size: "XL",
     duration: "12 hrs",
-    image: "https://picsum.photos/seed/watercolor-phoenix/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQREWG3yNHDkEYKl6UaBegGku7BkT7RWYrhDw&s",
     likes: 1204,
   },
   {
@@ -26,7 +26,7 @@ export const portfolioItems = [
     artist: "Rajan Selvam",
     size: "Medium",
     duration: "6 hrs",
-    image: "https://picsum.photos/seed/portrait-mom/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzbgSkQZzFyu4EpljHw10ctvkepUsMjOPxyg&s",
     likes: 743,
   },
   {
@@ -36,7 +36,7 @@ export const portfolioItems = [
     artist: "Vikram Arjun",
     size: "Full Sleeve",
     duration: "22 hrs",
-    image: "https://picsum.photos/seed/maori-sleeve/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDd20TrOB7JGxMngsXJWpGJ0bzhkrj64A2IQ&s",
     likes: 1567,
   },
   {
@@ -46,7 +46,7 @@ export const portfolioItems = [
     artist: "Vikram Arjun",
     size: "Medium",
     duration: "5 hrs",
-    image: "https://picsum.photos/seed/lotus-mandala/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2WhTktWG9AG1HamX_AbLT33ESTfwU-QHIQw&s",
     likes: 2108,
   },
   {
@@ -56,7 +56,7 @@ export const portfolioItems = [
     artist: "Priya Natarajan",
     size: "Small",
     duration: "3 hrs",
-    image: "https://picsum.photos/seed/rose-dagger/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPiEOluHpgy_HFQWcRnUUfp6wKUWPgGZkO7Q&s",
     likes: 631,
   },
   {
@@ -66,7 +66,7 @@ export const portfolioItems = [
     artist: "Kavya Menon",
     size: "Small",
     duration: "1.5 hrs",
-    image: "https://picsum.photos/seed/minimal-mountain/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbC61LtScQtFBt1Bn_ueKkB7eZmh2WjDpKA&s",
     likes: 418,
   },
   {
@@ -76,7 +76,7 @@ export const portfolioItems = [
     artist: "Priya Natarajan",
     size: "Full Back",
     duration: "30 hrs",
-    image: "https://picsum.photos/seed/japanese-dragon/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPg6cSTJJfTGyiLCqOjntHcRUXSgnnbhQe4w&s",
     likes: 3211,
   },
   {
@@ -86,7 +86,7 @@ export const portfolioItems = [
     artist: "Kavya Menon",
     size: "Small",
     duration: "2 hrs",
-    image: "https://picsum.photos/seed/galaxy-fine/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp8Cq_a1kJOEa81xtjfixs6YPXvhXNM3AfMw&s",
     likes: 887,
   },
   {
@@ -96,7 +96,7 @@ export const portfolioItems = [
     artist: "Rajan Selvam",
     size: "Large",
     duration: "10 hrs",
-    image: "https://picsum.photos/seed/skull-realism/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJrJN9Fl9Xk4YKeTdAmI30WzRsDpFP7_mOZQ&s",
     likes: 1093,
   },
   {
@@ -106,7 +106,7 @@ export const portfolioItems = [
     artist: "Kavya Menon",
     size: "Small",
     duration: "1 hr",
-    image: "https://picsum.photos/seed/sun-moon/600/750",
+    image: "https://static.tatship.com/idea-page-posts/33bcb601-c2fb-41b5-9655-12dcb2ab7658.jpg",
     likes: 755,
   },
   {
@@ -116,7 +116,7 @@ export const portfolioItems = [
     artist: "Vikram Arjun",
     size: "Chest",
     duration: "18 hrs",
-    image: "https://picsum.photos/seed/polynesian/600/750",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8dxcI4LlRwQbF5awTd7IGYHrf0gsJYM3Peg&s",
     likes: 1899,
   },
 ];
